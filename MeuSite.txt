@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   
+    <title>Este é o título da página que aparece na guia do navegador. As informações do campo head não ficam visíveis dentro do site, mas orientam os motores de busca da internet.</title>
+
+</head>
+<body>
+   
+    <h1>Isto é um cabeçalho, o texto que estiver aqui dentro será o maior da página. Esta tag apresenta seis níveis, sendo h1 o maior e h6 o menor.</h1>
+
+    <p>Isto é um parágrafo.</p>
+
+</body>
+</html>
